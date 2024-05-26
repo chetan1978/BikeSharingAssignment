@@ -46,7 +46,7 @@ Significant variables to predict the demand for shared bikes
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
+- UpGrad Assignment on Bike Sharing
 
 
 ## Contact
